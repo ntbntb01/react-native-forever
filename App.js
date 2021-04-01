@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 10,
         backgroundColor: 'rgba(255,255,255,0.2)',
          marginBottom:60,
-
+                    
     },
     texInput:{
         width:280,
